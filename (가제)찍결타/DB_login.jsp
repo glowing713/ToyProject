@@ -33,7 +33,7 @@
 				session.setAttribute("pw", pw);
 				
 				session.setMaxInactiveInterval(60*60);
-				response.sendRedirect("main_screen.html");
+				response.sendRedirect("main_screen.jsp");
 			}
 			else
 			{%>

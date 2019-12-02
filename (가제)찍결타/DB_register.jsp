@@ -32,7 +32,7 @@ try{
 %>
 <script>
 alert("저희 어플에 가입해 주셔서 감사합니다. (로그인화면으로 이동합니다.)");
-location.href="login.html";
+location.href="login.jsp";
 </script>
 <%}catch(Exception e)
 {

@@ -12,7 +12,7 @@
 	
 	<script>
 		alert("로그아웃 합니다.");
-		location.href="login.html";
+		location.href="login.jsp";
 	</script>
 	
 </body>
