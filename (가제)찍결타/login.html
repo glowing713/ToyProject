@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>First page of the app</title>
+</head>
+<style>
+    fieldset {
+        border: none;
+    }
+
+    ul {
+        list-style: none;
+    }
+
+    label {
+        width: 100px;
+        height: 20px;
+        display: inline-block;
+        font-family: sans-serif;
+        font-size: 20px;
+        color: slategray;
+    }
+
+    li,
+    h1,
+    legend {
+        text-align: center;
+    }
+
+    #h {
+        text-align: center;
+    }
+
+    .jb-image {
+        position: relative;
+        text-align: center;
+    }
+
+    .wrap {
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%);
+        top: 60%;
+    }
+</style>
+
+<body>
+    <div class="jb-image">
+        <img src="begin_screen.png">
+        <div class="wrap">
+            <form method="post" action="DB_login.jsp">
+                <fieldset>
+                    <legend></legend>
+                    <ul>
+                        <li>
+                            <label for="phone">Phone</label>
+                            <input type="text" name="phone">
+                        </li>
+                        <li>
+                            <label for="pw">Pw</label>
+                            <input type="text" name="pw">
+                        </li>
+                    </ul>
+                </fieldset>
+                <div id="h">
+                    <input type="submit" value="로그인" />&nbsp;&nbsp;
+                    <input type="button" name="intoDB" value="회원가입" onclick="location.href='register.html'">&nbsp;&nbsp;
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>

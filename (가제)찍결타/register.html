@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<style>
+fieldset{
+   border:none;
+}
+legend{
+   text-align:center;
+   font-family: sans-serif;
+   color :slategray;
+}
+ul{
+   list-style:none;
+}
+label{
+   display:inline-block;
+   width:140px;
+   height:20px;
+   display:inline-block;
+   font-family: sans-serif;
+   font-size: 20px;
+   color :slategray;
+}
+li{
+   text-align:center;
+}
+#h{
+   text-align:center;
+}
+h1{
+   font-family: sans-serif;
+   color :slategray;
+   text-align:center;
+}
+input{
+   font-family: sans-serif;
+   color :slategray;
+   width:150px;
+   height:20px;
+}
+</style>
+<body>
+<h1>회원가입</h1><p><p>
+<form method="post" action="DB_register.jsp">
+<fieldset>
+   <legend><strong>*아이디로 사용할 전화번호와 비밀번호를 입력하세요*</strong></legend>
+   <ul>
+      <li>
+         <label for="phone">휴대폰번호</label>
+         <input type="text" name="phone">
+      </li>
+      <li>
+         <label for="pw">비밀번호</label>
+         <input type="text" name="pw">
+      </li>
+   </ul>
+</fieldset>
+<fieldset>
+ <legend><strong>*면허증 정보를 입력하세요*</strong></legend>
+  <ul>
+   <li>
+    <label for="birth">생년월일</label>
+    <input type="text" name="birth">
+   </li>
+   <li>
+    <label for="myun_num">면허증 번호</label>
+    <input type="text" name="myun_num">
+   </li>
+   <li>
+    <label for="secret_num">암호 일련번호</label>
+    <input type="text" name="secret_num">
+   </li>
+  </ul>
+</fieldset>
+<fieldset>
+ <legend><strong>*카드 정보를 입력하세요*</strong></legend>
+  <ul>
+   <li>
+    <label for="company">카드사</label>
+    <input type="text" name="company">
+   </li>
+   <li>
+    <label for="card">카드번호</label>
+    <input type="text" name="card">
+   </li>
+   <li>
+    <label for="valid">유효기간</label>
+    <input type="text" name="valid">
+   </li>
+   <li>
+    <label for="card_pw">카드 비밀번호</label>
+    <input type="text" name="card_pw">
+   </li>
+  </ul>
+</fieldset>
+<div id="h">
+<input type="submit" value="등록"/>&nbsp;&nbsp;
+<input type="button" name="intoDB" value="취소" onclick="location.href='login.html'">&nbsp;&nbsp;
+</div>
+</form>
+</body>
+</html>

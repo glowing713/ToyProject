@@ -1,0 +1,175 @@
+#box_wrap {
+   width: 700px;
+   height: 1000px;
+   margin: 0px auto 0;
+   position: relative;
+   left: 0px;
+}
+/*�븘�옒 �솕�궡�몴�씠誘몄� �겢由��떆 �굹�삤�뒗 �씠誘몄�*/
+.menu {
+   text-align: center;
+   width: 200px;
+   height: 200px;
+   position: absolute;
+   left: 150px;
+   top: 200px;
+   z-index: 1;
+}
+/*�쇊履� �솕�궡�몴�씠誘몄� �겢由��떆 �굹�삤�뒗 �씠誘몄�*/
+.menu2 {
+   width: 600px;
+   height: 450px;
+   position: absolute;
+   left: 140px;
+   top: 50px;
+   z-index: 3;
+   
+}
+
+/*�븘�옒 �솕�궡�몴 �겢由��떆 �굹�삤�뒗 痍⑥냼踰꾪듉*/
+.cancel1 {
+   width: 140px;
+   height: 50px;
+   background-color: #fffff0;
+   color: black;
+   position: absolute;
+   z-index: 2;
+   font-size:23px;
+}
+
+/*�쇊履� �솕�궡�몴 �겢由��떆 �굹�삤�뒗 痍⑥냼踰꾪듉*/
+.cancel2 {
+   width: 140px;
+   height: 50px;
+   position: absolute;
+   background-color: #fffff0;
+   top: 50px;
+   z-index: 2;
+   font-size:23px;
+}
+
+#timer {
+   position: absolute;
+   left: 150px;
+   top: 10px;
+   z-index: 3;
+   font-size:30px;
+   font-weight: bolder;
+}
+
+#map {
+   position: relative;
+   width: 700px;
+   height: 1000px;
+   margin: 0px auto 0;
+   position: relative;
+}
+
+#setCenter {
+   position: absolute;
+   right: 0px;
+   bottom: 35px;
+   z-index: 2;
+}
+#button {
+   width: 140px;
+   height: 50px;
+   position: absolute;
+   z-index: 2;
+}
+#hide {
+   position: absolute;
+   z-index: 2;
+}
+.ghost-button{
+   width: 140px;
+   height: 50px;
+   background-color:#fffff0;
+   color: black;
+   font-size:23px;
+}
+.ghost-button:hover {
+   background-color: #d9cbb3;
+   color: black;   
+}
+.ghost-button2{
+   width: 140px;
+   height: 50px;
+   background-color:#fffff0;
+   color: black;
+   font-size:23px;
+}
+/*�쇊履쎈쾭�듉 hovor*/
+.ghost-button2:hover {
+   background-color: #d9cbb3;
+   color: black;
+}
+
+/*�쇊履� 硫붾돱�뿉 �엳�뒗 踰꾪듉 �뼇�떇*/
+.ghost-button3 {
+   text-align: center;
+   width: 140px;
+   height: 50px;
+   background-color:#fffff0;
+   top: 25px;
+   font-size:23px;
+   
+}
+.ghost-button4 {
+   text-align: center;
+   width: 140px;
+   height: 50px;
+   background-color:#fffff0;
+   top: 25px;
+   font-size:23px;
+   
+}
+
+.point_click {
+   text-align: center;
+width: 140px;
+   height: 50px;
+   background-color: #fffff0;
+   font-size:23px;
+}
+
+.point {
+   width: 300px;
+   height: 50px;
+   background-color: #fffff0;
+   position: absolute;
+   font-size:23px;
+}
+.event_click {
+   text-align: center;
+   width: 140px;
+   height: 50px;
+   background-color: #fffff0;
+   font-size:23px;
+}
+.event {
+   width: 300px;
+   height: 300px;
+   background-color: #fffff0;
+   position: absolute;
+}
+.start {
+      position: absolute;
+   z-index:2;
+}
+.start2 {
+   width: 350px;
+   height: 550px;
+position: relative;
+      z-index:1;
+}
+input{
+   text-align: center;
+}
+#first
+{width: 350px;
+   height: 550px;
+   margin: 0px auto 0;
+   position: relative;
+   left: 0px;
+}

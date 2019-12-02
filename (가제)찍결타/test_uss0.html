@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<script src="jquery.js"></script>
+<script src="jquery-migrate-1.4.1.min.js"></script>
+<style>
+legend {
+    margin:0 auto;
+}
+#t{
+   text-align : center;
+}
+#sex{
+   width:350;
+}
+#a{
+   text-align : center;
+}
+#d{
+   text-align : center;
+}
+</style>
+<body>
+<form method="post" action="uss1.jsp">
+<fieldset id="sex">
+<legend><strong>회원 정보를 입력하세요</strong></legend>
+<div id="t">
+ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <input type="text" name="id"/><p>
+PW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <input type="text" name="pw"/><p>
+이름&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <input type="text" name="name"/><p>
+</div>
+</fieldset>
+<fieldset>
+<legend><strong>면허증 정보를 입력하세요</strong></legend>
+<div id="t">
+생년월일&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <input type="text" name="birth"/><p>
+면허증 번호&nbsp;&nbsp;&nbsp;&nbsp; : <input type="text" name="myun_num"/><p>
+암호 일련번호&nbsp; : <input type="text" name="secret_num"/><p>
+</div>
+</fieldset>
+<fieldset>
+<legend><strong>카드 정보를 입력하세요</strong></legend>
+<div id="d">
+카드번호&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <input type="text" name="card"/><p>
+유효기간&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <input type="text" name="valid"/><p>
+카드 비밀번호&nbsp; : <input type="text" name="card_pw"/><p>
+</div>
+</fieldset>
+<div id="a">
+<input type="submit" value="등록"/>&nbsp;&nbsp;
+<a href="login.jsp">취소(로그인 화면으로)</a>&nbsp;&nbsp;
+</div>
+</form>
+</body>
+</html>
