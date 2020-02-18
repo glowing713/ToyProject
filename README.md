@@ -30,7 +30,9 @@
 
     ### 기술스택
     > ##### Git
+
     > ##### Visual Basic Application
+
     > ##### MS Excel
     </div>
     </details>
