@@ -1,27 +1,27 @@
-# (가제) 찍고 결제하면 바로 타는 - 찍결타
+# (가제) 찍고 결제하면 바로 타는 - 찍결타 🛵
 <br/>
 
-<img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/begin_screen.png" width="70%" height="70%" alt="main_image">
+<img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/begin_screen.png" width="60%" height="60%" alt="main_image">
 <br/>
 
-## 강의명
+## ✔️ 강의명
 
 > 소프트웨어 공학(팀과제 수업)
 
 
-## 과제 설계 방식
+## ✔️ 과제 설계 방식
 
 > 안드로이드 앱에 탑재된 웹애플리케이션 제작
 
 
-## 팀 구성
+## ✔️ 팀 구성
 
 > 인원 수: 4명 (front-end 2명, back-end 2명)<br/>
 > 담당 역할: Kakao map api를 활용, 메인 화면을 지도로 구성<br/>
 > 캠퍼스 중앙도서관을 기준으로 전동 스쿠터들의 현재 위치 표시(가상의 스쿠터)
 
 
-## 기술스택
+## ✔️ 기술스택
 
 > HTML, JavaScript, CSS, JSP
 > Kakao map api (기술문서: http://apis.map.kakao.com/web/documentation/)
@@ -29,7 +29,7 @@
 
 <br/>
 
-## 소비자 요구분석
+## ✔️ 소비자 요구분석
 
 <br/>
 
@@ -51,7 +51,7 @@
 
 
 
-## Flow Chart
+## ✔️ Flow Chart
 
 
 
@@ -71,3 +71,14 @@
 > 목적지에 도착 후, 결제버튼을 누르면 이용요금이 요금표를 기준으로 등록된 카드에서 결제된다(main_screen으로 복귀)<br/>
 > 포인트는 서비스를 이용하고 결제할 때마다 일정 비율로 누적된다. 이는 결제 시 현금과 동일하게 사용 가능.<br/>
 > 맵을 이동하다가 새로고침 버튼을 누르면 맵 화면이 현재 위치로 돌아온다.
+
+<br/>
+
+## ✔️ 구현화면
+| 📷 로그인 화면 | 📷 회원가입 화면 | 📷 기본 메인화면 |
+|:-----------:|:-------------:|:-------------:|
+| <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/login.png" width="65%" height="45%" alt="로그인화면"> | <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/register.png" width="65%" height="45%" alt="회원가입화면"> | <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/main1.png" width="65%" height="45%" alt="기본 메인화면"> |
+| 📷 메인화면(포인트) | 📷 메인화면(QR인식) | 📷 메인화면(운행시작) |
+| <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/main2.png" width="65%" height="45%" alt="메인화면(포인트)"> | <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/mainqr.png" width="65%" height="45%" alt="메인화면(QR인식)"> | <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/ridebegin.png" width="65%" height="45%" alt="메인화면(운행시작)"> |
+| 📷 메인화면(타이머시작) | 📷 메인화면(운행종료) |
+| <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/timer.png" width="65%" height="45%" alt="메인화면(타이머시작)"> | <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/payment.png" width="65%" height="45%" alt="메인화면(운행종료)"> |
