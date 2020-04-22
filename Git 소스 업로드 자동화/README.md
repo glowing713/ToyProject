@@ -16,7 +16,8 @@
 ## ✔️ 기술 스택
 > Git<br/>
 > VBA(Visual Basic Application)<br/>
-> MS Excel
+> MS Excel<br/>
+> GitLab REST API
 
 <br/>
 
