@@ -1,4 +1,4 @@
-# 🖥 Git 소스 업로드 자동화 프로그램
+# 🖥 Git Helper
 
 <img src="https://github.com/glowthem/ToyProject/blob/master/Git%20%EC%86%8C%EC%8A%A4%20%EC%97%85%EB%A1%9C%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%94/imgSrc/Main.png" width="90%" height="90%" alt="메인화면">
 <br/>
