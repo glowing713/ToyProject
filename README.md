@@ -18,7 +18,7 @@
 <br/>
 
 > ## Git
-* #### [Git Helper](https://github.com/glowthem/ToyProject/tree/master/Git%20%EC%86%8C%EC%8A%A4%20%EC%97%85%EB%A1%9C%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%94)
+* #### [Git Helper](https://github.com/glowthem/ToyProject/tree/master/Git%20Helper)
 
     <details>
     <summary> 접기/펼치기 </summary>
@@ -30,6 +30,10 @@
 
     ### 기술스택
     > ##### Git
+
+    > ##### Shell
+
+    > ##### GitLab REST API
 
     > ##### Visual Basic Application
 

@@ -59,8 +59,8 @@ Private Sub createRepo()
         
         
         '// https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html#personal-access-tokens 참고
-        '// 저장소 생성 권한을 가진 개인 토큰을 발급받아야 한다.
-        URL = "http://coukey.co.kr:5001/api/v4/projects?private_token=???"
+        '// 저장소 생성 권한을 가진 개인 토큰을 발급받아야 한다. foo 자리에 토큰 입력
+        URL = "http://coukey.co.kr:5001/api/v4/projects?private_token=foo"
         
         objHTTP.Open "POST", URL, False
         objHTTP.SetRequestHeader "Content-Type", "application/json; charset=UTF-8"
