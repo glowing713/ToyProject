@@ -10,7 +10,7 @@
     <br/>
 
     #### 기술스택
-    > ##### HTML, JS, CSS, JSP
+    > ##### HTML, JS, CSS, JSP, JQuery
 
     > ##### Kakao Map API
     </div>

@@ -23,7 +23,7 @@
 
 ## ✔️ 기술스택
 
-> HTML, JavaScript, CSS, JSP<br/>
+> HTML, JavaScript, CSS, JSP, JQuery<br/>
 > Kakao map api (기술문서: http://apis.map.kakao.com/web/documentation/)
 
 
