@@ -1,7 +1,7 @@
-# (가제) 찍고 결제하면 바로 타는 - 찍결타 🛵
+# 찍고 결제하면 바로 타는 - 찍결타 🛵
 <br/>
 
-<img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/begin_screen.png" width="60%" height="60%" alt="main_image">
+<img src="./imgSrc/begin_screen.png" width="60%" height="60%" alt="main_image">
 <br/>
 
 ## ✔️ 강의명
@@ -47,7 +47,7 @@
 
 *  **전공관 앞 학생들의 시간대별 스쿠터 이용비율**
 
-<img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/%EC%8B%9C%EA%B0%84%EB%8C%80%EB%B3%84%EC%9D%B4%EC%9A%A9%EB%B9%84%EC%9C%A8.png" width="60%" height="60%" alt="시간대별_이용비율">
+<img src="./imgSrc/시간대별이용비율.png" width="60%" height="60%" alt="시간대별_이용비율">
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-<img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/flowchart.png" width="60%" height="60%" alt="flowchart">
+<img src="./imgSrc/flowchart.png" width="60%" height="60%" alt="flowchart">
 
 <p>
 
@@ -77,8 +77,8 @@
 ## ✔️ 구현화면
 | 📷 로그인 화면 | 📷 회원가입 화면 | 📷 기본 메인화면 |
 |:-----------:|:-------------:|:-------------:|
-| <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/login.png" width="65%" height="45%" alt="로그인화면"> | <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/register.png" width="65%" height="45%" alt="회원가입화면"> | <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/main1.png" width="65%" height="45%" alt="기본 메인화면"> |
+| <img src="./imgSrc/login.png" width="65%" height="45%" alt="로그인화면"> | <img src="./imgSrc/register.png" width="65%" height="45%" alt="회원가입화면"> | <img src="./imgSrc/main1.png" width="65%" height="45%" alt="기본 메인화면"> |
 | 📷 메인화면(포인트) | 📷 메인화면(QR인식) | 📷 메인화면(운행시작) |
-| <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/main2.png" width="65%" height="45%" alt="메인화면(포인트)"> | <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/mainqr.png" width="65%" height="45%" alt="메인화면(QR인식)"> | <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/ridebegin.png" width="65%" height="45%" alt="메인화면(운행시작)"> |
+| <img src="./imgSrc/main2.png" width="65%" height="45%" alt="메인화면(포인트)"> | <img src="./imgSrc/mainqr.png" width="65%" height="45%" alt="메인화면(QR인식)"> | <img src="./imgSrc/ridebegin.png" width="65%" height="45%" alt="메인화면(운행시작)"> |
 | 📷 메인화면(타이머시작) | 📷 메인화면(운행종료) |
-| <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/timer.png" width="65%" height="45%" alt="메인화면(타이머시작)"> | <img src="https://github.com/glowthem/ToyProject/blob/master/(%EA%B0%80%EC%A0%9C)%EC%B0%8D%EA%B3%A0_%EA%B2%B0%EC%A0%9C%ED%95%98%EB%A9%B4_%EB%B0%94%EB%A1%9C%ED%83%80%EB%8A%94-%EC%B0%8D%EA%B2%B0%ED%83%80/imgSrc/payment.png" width="65%" height="45%" alt="메인화면(운행종료)"> |
+| <img src="./imgSrc/timer.png" width="65%" height="45%" alt="메인화면(타이머시작)"> | <img src="./imgSrc/payment.png" width="65%" height="45%" alt="메인화면(운행종료)"> |
