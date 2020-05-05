@@ -24,7 +24,7 @@
 ## ✔️ 기술스택
 
 > HTML, JavaScript, CSS, JSP, JQuery<br/>
-> Oracle DB
+> Oracle DB<br/>
 > Kakao map api (기술문서: http://apis.map.kakao.com/web/documentation/)
 
 
