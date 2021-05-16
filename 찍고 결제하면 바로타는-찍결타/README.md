@@ -78,8 +78,8 @@
 ## ✔️ 구현화면
 | 📷 로그인 화면 | 📷 회원가입 화면 | 📷 기본 메인화면 |
 |:-----------:|:-------------:|:-------------:|
-| <img src="./imgSrc/login.png" width="65%" height="45%" alt="로그인화면"> | <img src="./imgSrc/register.png" width="65%" height="45%" alt="회원가입화면"> | <img src="./imgSrc/main1.png" width="65%" height="45%" alt="기본 메인화면"> |
+| <img src="./imgSrc/login.png" width="95%" height="45%" alt="로그인화면"> | <img src="./imgSrc/register.png" width="95%" height="45%" alt="회원가입화면"> | <img src="./imgSrc/main1.png" width="95%" height="45%" alt="기본 메인화면"> |
 | 📷 메인화면(포인트) | 📷 메인화면(QR인식) | 📷 메인화면(운행시작) |
-| <img src="./imgSrc/main2.png" width="65%" height="45%" alt="메인화면(포인트)"> | <img src="./imgSrc/mainqr.png" width="65%" height="45%" alt="메인화면(QR인식)"> | <img src="./imgSrc/ridebegin.png" width="65%" height="45%" alt="메인화면(운행시작)"> |
+| <img src="./imgSrc/main2.png" width="95%" height="45%" alt="메인화면(포인트)"> | <img src="./imgSrc/mainqr.png" width="95%" height="45%" alt="메인화면(QR인식)"> | <img src="./imgSrc/ridebegin.png" width="95%" height="45%" alt="메인화면(운행시작)"> |
 | 📷 메인화면(타이머시작) | 📷 메인화면(운행종료) |
-| <img src="./imgSrc/timer.png" width="65%" height="45%" alt="메인화면(타이머시작)"> | <img src="./imgSrc/payment.png" width="65%" height="45%" alt="메인화면(운행종료)"> |
+| <img src="./imgSrc/timer.png" width="95%" height="45%" alt="메인화면(타이머시작)"> | <img src="./imgSrc/payment.png" width="95%" height="45%" alt="메인화면(운행종료)"> |
